@@ -162,7 +162,7 @@ to keep improving the project.
 ## Author
 
 - Twitter: [@panshak_](https://twitter.com/panshak_)
-- Github: [@panshak](https://github.com/panshak)
+- Github: [@dinesh](https://github.com/Dineshdevanaboina)
 - Linkedin: [@panshak](https://www.linkedin.com/in/panshak/)
 - Email: [@ipanshak](mailto:ipanshak@gmail.com)
 
